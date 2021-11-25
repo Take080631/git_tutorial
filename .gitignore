@@ -1,0 +1,7 @@
+.scret >> .gitignore
+git status
+
+git remote -v
+echo 秘密の情報 >> .secret
+echo .secret
+.secret
